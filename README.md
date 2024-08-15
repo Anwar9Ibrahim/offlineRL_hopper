@@ -50,6 +50,27 @@ This project compares the performance of different offline RL algorithms, includ
 - **EDAC**: Suitable for environments with a high likelihood of out-of-distribution actions.
 - **AWAC**: Ideal if using an actor-critic approach, especially with mixed-quality datasets.
 
+### Explanation of the Solution
+
+The solution is structured around preparing the MuJoCo Hopper environment and creating an agent using the Implicit Q-Learning (IQL) algorithm. The core components include:
+
+1. **Environment Setup**: The MuJoCo Hopper environment is initialized to simulate a robotic hopper's movement. The environment's state, action space, and other dynamics are crucial for training the RL model.
+
+2. **Custom Dataset Class (`CustomDataset`)**: 
+   - This class is designed to handle the dataset in a way that is compatible with PyTorch's data loading utilities.
+   - **Initialization (`__init__`)**: The constructor takes observations, actions, next observations, rewards, and done flags, converting them into PyTorch tensors for efficient processing during model training.
+   - **Length (`__len__`)**: This method returns the total number of samples in the dataset, making it easier to iterate over the entire dataset during training.
+   - **Get Item (`__getitem__`)**: This method allows access to individual samples in the dataset, retrieving the observation, action, next observation, reward, and done flag for a given index. This is essential for batching data during model training.
+
+3. **Agent Architecture**: The agent is built using the IQL framework, which is specifically designed for offline RL tasks. The agent includes:
+   - **Actor**: The actor network is responsible for generating actions, i.e., the policy that determines what actions to take given the current state.
+   - **Two Critics**: The critics evaluate the actions taken by the policy. They estimate the Q-values, which reflect the expected cumulative reward of taking a certain action from a given state.
+   - **Two Target Critics**: These are used to stabilize training by providing a stable target for the critic networks. They are essentially delayed versions of the critics, updated less frequently to reduce variance.
+   - **Value Network**: This network estimates the value of being in a particular state, helping in the decision-making process by providing a baseline against which the benefits of different actions can be compared.
+
+4. **Experiment Tracking and Saving Results**: 
+   - The entire training process, including model checkpoints, results, and metrics, is logged and saved using Weights & Biases (W&B). This allows for detailed tracking of the agent's performance over time and easy visualization of the results.
+
 ## Experiment Tracking
 
 All experiments are tracked using Weights & Biases. You can access the project dashboard [here](https://wandb.ai/anwar96ibrahim-student/offline-RL?nw=nwuseranwar96ibrahim).
@@ -58,6 +79,4 @@ All experiments are tracked using Weights & Biases. You can access the project d
 
 The performance of IQL on the Hopper environment has shown strong results, leveraging the high-quality expert data to achieve optimal control policies.
 
----
 
-This README provides a clear and concise overview of your project, tailored for execution on the Kaggle platform.
