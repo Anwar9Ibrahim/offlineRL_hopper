@@ -1,0 +1,116 @@
+
+Episode: 1 | Reward: 141.27689229601634 | Polciy Loss: 0.05945054814219475 | Batches: 8334
+Episode: 2 | Reward: 565.0603867901862 | Polciy Loss: -0.3768186867237091 | Batches: 16668
+Episode: 3 | Reward: 377.83794733432103 | Polciy Loss: -0.06062809005379677 | Batches: 25002
+Episode: 4 | Reward: 638.1192285664531 | Polciy Loss: 0.016893576830625534 | Batches: 33336
+Episode: 5 | Reward: 447.5695230217957 | Polciy Loss: 0.2609432637691498 | Batches: 41670
+Episode: 6 | Reward: 673.096600330251 | Polciy Loss: -0.13118886947631836 | Batches: 50004
+Episode: 7 | Reward: 620.6401397553785 | Polciy Loss: -0.03263960778713226 | Batches: 58338
+Episode: 8 | Reward: 709.1668639396719 | Polciy Loss: -0.3026217222213745 | Batches: 66672
+Episode: 9 | Reward: 517.0638542285787 | Polciy Loss: -0.2841232717037201 | Batches: 75006
+Episode: 10 | Reward: 492.7317594395264 | Polciy Loss: -0.3650800585746765 | Batches: 83340
+Episode: 11 | Reward: 657.4908154424824 | Polciy Loss: 0.20465019345283508 | Batches: 91674
+Episode: 12 | Reward: 672.4333464350073 | Polciy Loss: -0.21491341292858124 | Batches: 100008
+Episode: 13 | Reward: 1068.1648969754042 | Polciy Loss: -2.0948140621185303 | Batches: 108342
+Episode: 14 | Reward: 1052.9734417536042 | Polciy Loss: -0.6703413724899292 | Batches: 116676
+Episode: 15 | Reward: 839.9233342746398 | Polciy Loss: -1.1108049154281616 | Batches: 125010
+Episode: 16 | Reward: 944.1838622102529 | Polciy Loss: -0.44498753547668457 | Batches: 133344
+Episode: 17 | Reward: 840.959904837158 | Polciy Loss: 1.8274738788604736 | Batches: 141678
+Episode: 18 | Reward: 757.7662836199491 | Polciy Loss: -7.2371931076049805 | Batches: 150012
+Episode: 19 | Reward: 917.7564573772545 | Polciy Loss: -1.4634623527526855 | Batches: 158346
+Episode: 20 | Reward: 812.3870887420109 | Polciy Loss: -0.5820156335830688 | Batches: 166680
+Episode: 21 | Reward: 500.7978717718653 | Polciy Loss: -12.118698120117188 | Batches: 175014
+Episode: 22 | Reward: 842.3152853122689 | Polciy Loss: -4.8034162521362305 | Batches: 183348
+Episode: 23 | Reward: 1093.363046955482 | Polciy Loss: -10.937223434448242 | Batches: 191682
+Episode: 24 | Reward: 933.4351457582176 | Polciy Loss: 12.39159107208252 | Batches: 200016
+Episode: 25 | Reward: 902.1582095252352 | Polciy Loss: -11.42374324798584 | Batches: 208350
+Episode: 26 | Reward: 1066.1814369643362 | Polciy Loss: -26.2087459564209 | Batches: 216684
+Episode: 27 | Reward: 677.5008948219975 | Polciy Loss: -9.03289794921875 | Batches: 225018
+wandb: Network error (ReadTimeout), entering retry loop.
+Episode: 28 | Reward: 904.0057900033789 | Polciy Loss: -8.960646629333496 | Batches: 233352
+Episode: 29 | Reward: 664.3755467128457 | Polciy Loss: -9.717408180236816 | Batches: 241686
+Episode: 30 | Reward: 726.3569684411452 | Polciy Loss: -6.751460075378418 | Batches: 250020
+Episode: 31 | Reward: 1278.9282907839151 | Polciy Loss: -18.18770408630371 | Batches: 258354
+Episode: 32 | Reward: 1580.5028878455805 | Polciy Loss: -27.257518768310547 | Batches: 266688
+Episode: 33 | Reward: 678.9210379355616 | Polciy Loss: -7.290257453918457 | Batches: 275022
+Episode: 34 | Reward: 754.9863360473314 | Polciy Loss: -33.72507095336914 | Batches: 283356
+Episode: 35 | Reward: 724.195932915189 | Polciy Loss: -15.988669395446777 | Batches: 291690
+Episode: 36 | Reward: 668.3835380250152 | Polciy Loss: -7.195610046386719 | Batches: 300024
+Episode: 37 | Reward: 612.6091776175556 | Polciy Loss: -10.702445983886719 | Batches: 308358
+Episode: 38 | Reward: 837.1028072995923 | Polciy Loss: -16.96207618713379 | Batches: 316692
+Episode: 39 | Reward: 2897.2917178115854 | Polciy Loss: -11.3678560256958 | Batches: 325026
+Episode: 40 | Reward: 531.0101421207551 | Polciy Loss: -21.29165267944336 | Batches: 333360
+Episode: 41 | Reward: 841.1060580702735 | Polciy Loss: -20.501712799072266 | Batches: 341694
+Episode: 42 | Reward: 836.5823803524299 | Polciy Loss: -26.289541244506836 | Batches: 350028
+Episode: 43 | Reward: 767.7042672255909 | Polciy Loss: 11.799152374267578 | Batches: 358362
+Episode: 44 | Reward: 1038.1396635483675 | Polciy Loss: -18.872360229492188 | Batches: 366696
+Episode: 45 | Reward: 2292.0607704967524 | Polciy Loss: -17.27376937866211 | Batches: 375030
+Episode: 46 | Reward: 808.7121703758569 | Polciy Loss: -36.04701232910156 | Batches: 383364
+Episode: 47 | Reward: 722.2376921755236 | Polciy Loss: -29.400007247924805 | Batches: 391698
+Episode: 48 | Reward: 600.5159384117076 | Polciy Loss: -41.80384063720703 | Batches: 400032
+Episode: 49 | Reward: 1526.0534475092813 | Polciy Loss: -5.07390022277832 | Batches: 408366
+Episode: 50 | Reward: 694.5778773123781 | Polciy Loss: -18.60768699645996 | Batches: 416700
+Episode: 51 | Reward: 707.3205378097771 | Polciy Loss: -6.76694393157959 | Batches: 425034
+Episode: 52 | Reward: 784.890309213611 | Polciy Loss: -17.4868221282959 | Batches: 433368
+Episode: 53 | Reward: 670.3124008305972 | Polciy Loss: -12.122915267944336 | Batches: 441702
+Episode: 54 | Reward: 2884.948227499159 | Polciy Loss: -13.810346603393555 | Batches: 450036
+Episode: 55 | Reward: 816.8196459144707 | Polciy Loss: -3.591309070587158 | Batches: 458370
+Episode: 56 | Reward: 768.7323677556444 | Polciy Loss: -7.8234357833862305 | Batches: 466704
+Episode: 57 | Reward: 714.4707773530754 | Polciy Loss: -27.80531883239746 | Batches: 475038
+Episode: 58 | Reward: 1012.1291165053274 | Polciy Loss: -9.005751609802246 | Batches: 483372
+Episode: 59 | Reward: 433.21453863916497 | Polciy Loss: -32.80996322631836 | Batches: 491706
+Episode: 60 | Reward: 1515.3772677846823 | Polciy Loss: -7.281626224517822 | Batches: 500040
+Episode: 61 | Reward: 764.2562965986983 | Polciy Loss: -14.23088550567627 | Batches: 508374
+Episode: 62 | Reward: 781.196929152102 | Polciy Loss: -26.316057205200195 | Batches: 516708
+Episode: 63 | Reward: 869.6362888131887 | Polciy Loss: -38.915809631347656 | Batches: 525042
+Episode: 64 | Reward: 1132.5482429445838 | Polciy Loss: -20.12847328186035 | Batches: 533376
+Episode: 65 | Reward: 2311.7523390577426 | Polciy Loss: -14.372919082641602 | Batches: 541710
+Episode: 66 | Reward: 852.0111213526527 | Polciy Loss: -30.906801223754883 | Batches: 550044
+Episode: 67 | Reward: 732.5463311121644 | Polciy Loss: -25.149307250976562 | Batches: 558378
+Episode: 68 | Reward: 772.2991266777213 | Polciy Loss: -19.38184928894043 | Batches: 566712
+Episode: 69 | Reward: 766.3068068382653 | Polciy Loss: 2.7908570766448975 | Batches: 575046
+Episode: 70 | Reward: 965.5091398941553 | Polciy Loss: -22.09925079345703 | Batches: 583380
+Episode: 71 | Reward: 915.2221341203128 | Polciy Loss: -23.26648712158203 | Batches: 591714
+Episode: 72 | Reward: 829.1562943445564 | Polciy Loss: -2.694711208343506 | Batches: 600048
+Episode: 73 | Reward: 809.0160251457013 | Polciy Loss: -7.213482856750488 | Batches: 608382
+Episode: 74 | Reward: 812.2306409027366 | Polciy Loss: -11.086587905883789 | Batches: 616716
+Episode: 75 | Reward: 671.9365737331412 | Polciy Loss: -6.2960686683654785 | Batches: 625050
+Episode: 76 | Reward: 671.3836378421968 | Polciy Loss: -22.154491424560547 | Batches: 633384
+Episode: 77 | Reward: 744.2760685496693 | Polciy Loss: -18.400415420532227 | Batches: 641718
+Episode: 78 | Reward: 840.6690306663711 | Polciy Loss: -15.59706974029541 | Batches: 650052
+Episode: 79 | Reward: 686.5801605420324 | Polciy Loss: -2.2589657306671143 | Batches: 658386
+Episode: 80 | Reward: 998.1417022657531 | Polciy Loss: -28.6209774017334 | Batches: 666720
+Episode: 81 | Reward: 654.1206807126671 | Polciy Loss: -10.844053268432617 | Batches: 675054
+Episode: 82 | Reward: 753.4994655933193 | Polciy Loss: -33.52739334106445 | Batches: 683388
+Episode: 83 | Reward: 377.38972001599075 | Polciy Loss: -19.90227699279785 | Batches: 691722
+Episode: 84 | Reward: 1259.5820903564525 | Polciy Loss: -21.464799880981445 | Batches: 700056
+Episode: 85 | Reward: 1184.633986058517 | Polciy Loss: -25.485166549682617 | Batches: 708390
+Episode: 86 | Reward: 894.6534308358205 | Polciy Loss: -26.023540496826172 | Batches: 716724
+Episode: 87 | Reward: 692.1600810109791 | Polciy Loss: -13.82436752319336 | Batches: 725058
+Episode: 88 | Reward: 991.9350755497089 | Polciy Loss: -25.08778953552246 | Batches: 733392
+Episode: 89 | Reward: 875.0211909193167 | Polciy Loss: -6.773248672485352 | Batches: 741726
+Episode: 90 | Reward: 855.8519153296724 | Polciy Loss: -23.752695083618164 | Batches: 750060
+Episode: 91 | Reward: 940.7483057169845 | Polciy Loss: -28.915740966796875 | Batches: 758394
+Episode: 92 | Reward: 1007.3574017955722 | Polciy Loss: -13.978081703186035 | Batches: 766728
+Episode: 93 | Reward: 964.950075995285 | Polciy Loss: -9.040437698364258 | Batches: 775062
+Episode: 94 | Reward: 1228.8073188988972 | Polciy Loss: -16.077669143676758 | Batches: 783396
+Episode: 95 | Reward: 813.6161587471609 | Polciy Loss: -17.85622787475586 | Batches: 791730
+Episode: 96 | Reward: 358.0573815880255 | Polciy Loss: -25.832094192504883 | Batches: 800064
+Episode: 97 | Reward: 835.4797609364543 | Polciy Loss: -7.719178199768066 | Batches: 808398
+Episode: 98 | Reward: 830.4892879982814 | Polciy Loss: -28.740520477294922 | Batches: 816732
+Episode: 99 | Reward: 818.5662357738031 | Polciy Loss: -21.58417320251465 | Batches: 825066
+Episode: 100 | Reward: 895.3244562748594 | Polciy Loss: -0.9551305770874023 | Batches: 833400
+Collecting pyvirtualdisplay
+  Downloading PyVirtualDisplay-3.0-py3-none-any.whl (15 kB)
+Installing collected packages: pyvirtualdisplay
+Successfully installed pyvirtualdisplay-3.0
+[33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+Note: you may need to restart the kernel to use updated packages.
+Requirement already satisfied: imageio in /opt/conda/lib/python3.7/site-packages (2.9.0)
+Requirement already satisfied: numpy in /opt/conda/lib/python3.7/site-packages (from imageio) (1.19.5)
+Requirement already satisfied: pillow in /opt/conda/lib/python3.7/site-packages (from imageio) (8.2.0)
+[33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+/opt/conda/lib/python3.7/site-packages/gym/spaces/box.py:74: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  "Box bound precision lowered by casting to {}".format(self.dtype)
+Episode Reward: 3608.019141577519
+GIF saved at /kaggle/working/hopper_episode.gif
