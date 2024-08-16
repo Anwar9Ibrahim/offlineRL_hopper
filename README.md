@@ -87,7 +87,7 @@ The performance of IQL on the Hopper environment has shown strong results in the
 
 an Episode of our trained agent:
 
-[here](hopper_episode .gif)
+[here](offlineRL_hopper/hopper_episode .gif)
 
 
 
