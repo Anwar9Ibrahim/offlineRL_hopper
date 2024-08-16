@@ -75,8 +75,14 @@ The solution is structured around preparing the MuJoCo Hopper environment and cr
 
 All experiments are tracked using Weights & Biases. You can access the project dashboard [here](https://wandb.ai/anwar96ibrahim-student/offline-RL?nw=nwuseranwar96ibrahim).
 
+## my contributions
+
+I used in this [code](https://www.kaggle.com/code/mmdalix/openai-gym-mujoco-env-setup-and-training-2022) to set up the library.
+for the algorithm I read the [paper](https://arxiv.org/pdf/2110.06169), and checked multiple online resources, but in general it was all updated to suite this problem.
+
 ## Results
 
-The performance of IQL on the Hopper environment has shown strong results, leveraging the high-quality expert data to achieve optimal control policies.
+to consider the environment solved it should achive in the testing phase a reward>= 3000.
+The performance of IQL on the Hopper environment has shown strong results in the testing block "the last block in the code" you can see that it solved the "hopper-expert-v2" environment. leveraging the high-quality expert data to achieve optimal control policies.
 
 
