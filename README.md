@@ -85,8 +85,9 @@ for the algorithm I read the [paper](https://arxiv.org/pdf/2110.06169), and chec
 to consider the environment solved it should achive in the testing phase a reward>= 3000.
 The performance of IQL on the Hopper environment has shown strong results in the testing block "the last block in the code" you can see that it solved the "hopper-expert-v2" environment, ours is "3608.019141577519"  leveraging the high-quality expert data to achieve optimal control policies.
 
-The hopper final result:
+an Episode of our trained agent:
 
+[here](./hopper_episode .gif)
 
 
 
