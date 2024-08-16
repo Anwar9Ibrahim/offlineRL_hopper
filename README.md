@@ -9,6 +9,7 @@ This project implements and evaluates an offline reinforcement learning (RL) alg
 - [Usage](#usage)
 - [Algorithms Overview](#algorithms-overview)
 - [Experiment Tracking](#experiment-tracking)
+- [My contributions](#my-contributions)
 - [Results](#results)
 
 ## Project Overview
@@ -75,7 +76,7 @@ The solution is structured around preparing the MuJoCo Hopper environment and cr
 
 All experiments are tracked using Weights & Biases. You can access the project dashboard [here](https://wandb.ai/anwar96ibrahim-student/offline-RL?nw=nwuseranwar96ibrahim).
 
-## my contributions
+## My contributions
 
 I used in this [code](https://www.kaggle.com/code/mmdalix/openai-gym-mujoco-env-setup-and-training-2022) to set up the library.
 for the algorithm I read the [paper](https://arxiv.org/pdf/2110.06169), and checked multiple online resources, but in general it was all updated to suite this problem.
